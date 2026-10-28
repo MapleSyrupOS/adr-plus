@@ -1,0 +1,9 @@
+ADR+ (adr-plus)
+Copyright 2026 Writerblockade
+
+ADR+ was worked out in practice over 232 architecture decision records in one large solo-owned project, and is
+packaged in the makeadr skill of pitmaster (https://github.com/MapleSyrupOS/pitmaster).
+
+ADR+ takes several elements from MADR, Markdown Architectural Decision Records (https://adr.github.io/madr/):
+decision drivers, per-option pros and cons, Good/Bad consequences, confirmation, a rejected status and a YAML
+header. The wording is ADR+'s own. SPEC.md section 1.7 lists each borrowed element and its source.
